@@ -1,3 +1,6 @@
+# My cluster code
+# v0.0.2
+# Date 3/1/2020
 terraform {
 	backend "s3" {
 		bucket					= "com.natthompson.terraform-up-and-running-state-2ed"
